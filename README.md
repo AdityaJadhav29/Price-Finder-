@@ -1,4 +1,4 @@
-# Price-Finder-
+# Price-Tracker-
 Simple product price finder in python using bs4
 
 Requirements
