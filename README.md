@@ -1,5 +1,5 @@
 # Price-Tracker-
-Simple product price finder in python using bs4
+Simple product price tracker in python using bs4
 
 Requirements
 1.first you need to install requests and bs4 using following command "pip install requests bs4".
